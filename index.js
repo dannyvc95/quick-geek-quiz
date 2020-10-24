@@ -13,7 +13,7 @@ app.use(express.json());
 /**
  * The classic Hello, World endpoint
  */
-app.get('/', (req, res) => { //TODO: remove req
+app.get('/', (req, res) => {
   res.send('<h1>Hello, World</h1>');
 });
 

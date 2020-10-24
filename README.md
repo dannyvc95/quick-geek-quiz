@@ -35,3 +35,10 @@ We keep the things simple, you just need to tell us how many questions do you wa
 ```
 
 Go and enjoy it!
+
+---
+**Note:**
+
+If you notice that our response is taking to long, don't worry is due to heroku free tier, but once the server is up again, your further requests will be as fast as you expect.
+
+---

@@ -4,7 +4,7 @@ Hi there, with the **quick-geek-api** you will be able to get some cool question
 
 ## Get started
 
-Use this API is simple, you just need to tell us how many questions do you want as you see in the url bellow, and we'll do everything else 😉.
+We keep the things simple, you just need to tell us how many questions do you want, as you see in the url bellow, and we'll do everything else 😉.
  
  ```
  https://quick-geek-quiz.herokuapp.com/api/v1/quiz/<number_of_questions_here>

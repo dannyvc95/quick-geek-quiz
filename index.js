@@ -32,6 +32,6 @@ app.get('/api/v1/quiz/:questionsAmount', async (req, res) => {
   }
 });
 
-app.listen({ port: 3000 }, () => console.log('server running on localhost:3000 ...'));
+app.listen({ port: process.env.PORT }, () => console.log('server running...'));
 
 module.exports = app;
